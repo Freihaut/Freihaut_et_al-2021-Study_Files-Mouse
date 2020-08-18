@@ -1,0 +1,31 @@
+/*Basic CSS of the main page setup*/
+
+.outerContainer {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  font-size: large;
+}
+
+.innerContainer {
+  display: flex;
+  height: 100%;
+  max-width: 930px;
+  text-align: center;
+
+  /* Alternative vertical and horizontal centering approach that does not work in Edge*/
+  /*align-items: safe center; !*might not work in all browsers! (alternative solution?)*!*/
+  /*justify-content: safe center;*/
+  /*flex-direction: column;*/
+  /*min-height: -webkit-min-content; !* works for opera and safari *!*/
+  /*min-height: min-content; !* works for chrome *!*/
+}
+
+/*Checks if the screen size is large enough and if the device is not a touch device only*/
+.small-screen {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+

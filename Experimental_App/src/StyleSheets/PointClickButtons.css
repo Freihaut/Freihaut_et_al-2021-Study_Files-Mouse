@@ -1,0 +1,12 @@
+.unclickedButton {
+    cursor: pointer;
+    fill: hsl(0, 0%, 71%);
+}
+
+.unclickedButton:hover {
+    opacity: 0.5;
+}
+
+.clickedButton {
+    fill: hsl(171, 100%, 41%);
+}

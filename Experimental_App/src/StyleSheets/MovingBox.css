@@ -1,0 +1,26 @@
+.movingBox {
+    width: 50px;
+    height: 50px;
+    border: 2px black solid;
+    border-radius: 50%;
+    position: relative;
+    /*//animation: mover 5s linear infinite;*/
+}
+
+/*
+@-webkit-keyframes mover {
+    from {transform: rotate(0deg) translateX(250px)}
+    to   {transform: rotate(360deg) translateX(250px)}
+}
+
+@keyframes mover {
+     from {transform: rotate(0deg) translateY(-225px)}
+     to   {transform: rotate(360deg) translateY(-225px)}
+ }
+*/
+
+
+/*@keyframes mover {*/
+/*    from {transform: rotate(-90deg) translateX(225px)}*/
+/*    to   {transform: rotate(270deg) translateX(225px)}*/
+/*}*/
