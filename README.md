@@ -1,5 +1,5 @@
 ﻿
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4003836.svg)](https://doi.org/10.5281/zenodo.4003836)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4004776.svg)](https://doi.org/10.5281/zenodo.4004776)
 
 # Study Material Repository
 
@@ -26,4 +26,4 @@ For any questions regarding the study material, contact: paul.freihaut@psycholog
 
 To cite the study material (according to Zenodo):
 
-Freihaut. (2020, August 27). Freihaut/Study_Files_OnlineStudy20_Freihaut_et_al: Study Material - Tracking stress via the computer mouse? (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.4003836
+Freihaut. (2020, August 27). Freihaut/Study_Files_OnlineStudy20_Freihaut_et_al: Study Material - Tracking stress via the computer mouse? (Version 1.01). Zenodo. http://doi.org/10.5281/zenodo.4004776
