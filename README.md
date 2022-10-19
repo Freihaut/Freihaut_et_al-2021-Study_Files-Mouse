@@ -5,8 +5,7 @@
 
 ### General Information
 
-This repository contains all materials, data and data analysis files associated with the online-study documented in the research paper "Tracking stress via
-the computer mouse? Promise and challenges of a potential behavioral stress marker" by Freihaut, Rockstroh, Blum & Göritz.
+This repository contains all materials, data and data analysis files associated with the research paper: Freihaut, P., Göritz, A. S., Rockstroh, C. & Blum, J. (2021). Tracking stress via the computer mouse? Promises and challenges of a potential behavioral stress marker. Behavior Research Methods, 53, 2281-2301. https://doi.org/0.3758/s13428-021-01568-8
 
 ### Repository Structure
 
